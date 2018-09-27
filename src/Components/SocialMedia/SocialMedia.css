@@ -1,0 +1,109 @@
+/* body {
+    background: #E5D5CA;
+  } */
+  
+  .text {
+    margin: 0 60px;
+  }
+  
+ 
+  
+  /* p,
+  span, */
+  .twitter {
+    font: normal normal 10px Arial;
+    text-align: center;
+    color: #998578;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+  }
+  
+  .twitter {
+    color: blue;
+    text-decoration: none;
+    display: block;
+    padding: 14px;
+    -webkit-transition: all .25s ease;
+    -moz-transition: all .25s ease;
+    -ms-transition: all .25s ease;
+    -o-transition: all .25s ease;
+    transition: all .25s ease;
+  }
+  
+  .twitter:hover {
+    color: #FF7D6D;
+    text-decoration: none;
+  }
+  
+  /* span {
+    font-style: italic;
+    display: block;
+  } */
+  
+  /* img {
+    max-width: 100%;
+  } */
+  /* Floating Social Media Bar Style Starts Here */
+  
+  .fl-fl {
+    background: black;
+    opacity: .70; 
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 4px;
+    width: 145px;
+    position: fixed;
+    right: -100px;
+    z-index: 1000;
+    font: normal normal 8px Arial;
+    -webkit-transition: all .25s ease;
+    -moz-transition: all .25s ease;
+    -ms-transition: all .25s ease;
+    -o-transition: all .25s ease;
+    transition: all .25s ease;
+  }
+  
+  .fa {
+    font-size: 20px;
+    color: #fff;
+    padding: 10px 0;
+    width: 40px;
+    margin-left: 0px;
+  }
+  
+  .fl-fl:hover {
+    right: 0;
+    opacity: .99;
+  }
+  
+  .fl-fl a {
+    color: #fff !important;
+    text-decoration: none;
+    text-align: left;
+    line-height: 43px!important;
+    vertical-align: top!important;
+  }
+  
+  .float-fb {
+    bottom: 260px;
+  }
+  
+  .float-tw {
+    bottom: 315px;
+  }
+  
+  .float-gp {
+    bottom: 370px;
+  }
+  
+  .float-rs {
+    bottom: 425px;
+  }
+  
+  .float-ig {
+    bottom: 480px;
+  }
+  
+  .float-pn {
+    bottom: 535px;
+  }
